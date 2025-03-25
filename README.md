@@ -62,7 +62,7 @@ See full [Privacy Policy](./privacy-policy.md)
 
 ## 📥 Installation
 
-1. [Install the extension from the Chrome Store]()
+1. [Install the extension from the Chrome Store](https://chromewebstore.google.com/detail/npcfiafpgffnlalabpbhmkdapadnjmnd?utm_source=item-share-cb)
 2. Pin the plugin to your browser
 
 ---
